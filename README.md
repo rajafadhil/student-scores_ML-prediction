@@ -56,3 +56,13 @@ The workflow for this project includes the following steps, all documented in th
 
    ```bash
    git clone https://github.com/yourusername/yourprojectname.git
+2. Open the Jupyter Notebook (Predicting Student Scores Based on Study Hours.ipynb) to view the code, run the analysis, or make modifications.
+3. Follow the steps in the notebook to understand each phase of the project, from data exploration and model training to evaluation.
+
+##Requirements
+- pandas: For data manipulation and analysis.
+- scikit-learn: For model training and evaluation.
+- matplotlib: For data visualization.
+
+##Conclusion
+This project demonstrates how different machine learning regression models can be used to predict scores based on study hours. By comparing model performance, we found that the Random Forest Regressor was the most accurate model for this dataset, making it a reliable choice for similar regression tasks.
